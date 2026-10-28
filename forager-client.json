@@ -1,5 +1,5 @@
 {
-  "client_id": "https://Shaunnee.github.io/forager-client/forager-client.json",
+  "client_id": "https://shaunnee.github.io/forager-client/forager-client.json",
   "client_name": "Forager deal scanner (personal use)",
   "client_uri": "https://Shaunnee.github.io/forager-client/",
   "redirect_uris": ["http://127.0.0.1:8765/callback", "http://localhost:8765/callback"],
